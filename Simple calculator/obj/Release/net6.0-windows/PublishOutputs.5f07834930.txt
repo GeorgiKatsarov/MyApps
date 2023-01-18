@@ -1,5 +1,0 @@
-C:\Users\Georgi\Desktop\Simple calculator\bin\Release\net6.0-windows\publish\Simple calculator.exe
-C:\Users\Georgi\Desktop\Simple calculator\bin\Release\net6.0-windows\publish\Simple calculator.dll
-C:\Users\Georgi\Desktop\Simple calculator\bin\Release\net6.0-windows\publish\Simple calculator.deps.json
-C:\Users\Georgi\Desktop\Simple calculator\bin\Release\net6.0-windows\publish\Simple calculator.runtimeconfig.json
-C:\Users\Georgi\Desktop\Simple calculator\bin\Release\net6.0-windows\publish\Simple calculator.pdb
