@@ -1,0 +1,17 @@
+C:\Users\Georgi\Desktop\Simple calculator\bin\Debug\net6.0-windows\Simple calculator.exe
+C:\Users\Georgi\Desktop\Simple calculator\bin\Debug\net6.0-windows\Simple calculator.deps.json
+C:\Users\Georgi\Desktop\Simple calculator\bin\Debug\net6.0-windows\Simple calculator.runtimeconfig.json
+C:\Users\Georgi\Desktop\Simple calculator\bin\Debug\net6.0-windows\Simple calculator.dll
+C:\Users\Georgi\Desktop\Simple calculator\bin\Debug\net6.0-windows\ref\Simple calculator.dll
+C:\Users\Georgi\Desktop\Simple calculator\bin\Debug\net6.0-windows\Simple calculator.pdb
+C:\Users\Georgi\Desktop\Simple calculator\obj\Debug\net6.0-windows\Simple calculator.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\Simple calculator\obj\Debug\net6.0-windows\Simple_calculator.Form1.resources
+C:\Users\Georgi\Desktop\Simple calculator\obj\Debug\net6.0-windows\Simple calculator.csproj.GenerateResource.cache
+C:\Users\Georgi\Desktop\Simple calculator\obj\Debug\net6.0-windows\Simple calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Desktop\Simple calculator\obj\Debug\net6.0-windows\Simple calculator.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Simple calculator\obj\Debug\net6.0-windows\Simple calculator.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Simple calculator\obj\Debug\net6.0-windows\Simple calculator.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Simple calculator\obj\Debug\net6.0-windows\Simple calculator.dll
+C:\Users\Georgi\Desktop\Simple calculator\obj\Debug\net6.0-windows\ref\Simple calculator.dll
+C:\Users\Georgi\Desktop\Simple calculator\obj\Debug\net6.0-windows\Simple calculator.pdb
+C:\Users\Georgi\Desktop\Simple calculator\obj\Debug\net6.0-windows\Simple calculator.genruntimeconfig.cache
