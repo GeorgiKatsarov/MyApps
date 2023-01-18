@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\Tic-Tac-Toe\bin\Release\net6.0-windows\publish\Tic-Tac-Toe.exe
+C:\Users\Georgi\Desktop\Tic-Tac-Toe\bin\Release\net6.0-windows\publish\Tic-Tac-Toe.dll
+C:\Users\Georgi\Desktop\Tic-Tac-Toe\bin\Release\net6.0-windows\publish\Tic-Tac-Toe.deps.json
+C:\Users\Georgi\Desktop\Tic-Tac-Toe\bin\Release\net6.0-windows\publish\Tic-Tac-Toe.runtimeconfig.json
+C:\Users\Georgi\Desktop\Tic-Tac-Toe\bin\Release\net6.0-windows\publish\Tic-Tac-Toe.pdb
