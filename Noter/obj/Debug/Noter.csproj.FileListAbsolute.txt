@@ -1,0 +1,11 @@
+C:\Users\Georgi\Desktop\Noter\bin\Debug\Noter.exe.config
+C:\Users\Georgi\Desktop\Noter\bin\Debug\Noter.exe
+C:\Users\Georgi\Desktop\Noter\bin\Debug\Noter.pdb
+C:\Users\Georgi\Desktop\Noter\obj\Debug\Noter.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\Noter\obj\Debug\Noter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Georgi\Desktop\Noter\obj\Debug\Noter.Form1.resources
+C:\Users\Georgi\Desktop\Noter\obj\Debug\Noter.Properties.Resources.resources
+C:\Users\Georgi\Desktop\Noter\obj\Debug\Noter.csproj.GenerateResource.cache
+C:\Users\Georgi\Desktop\Noter\obj\Debug\Noter.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Noter\obj\Debug\Noter.exe
+C:\Users\Georgi\Desktop\Noter\obj\Debug\Noter.pdb
